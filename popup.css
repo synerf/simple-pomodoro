@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    width: 300px;
+    margin: 0;
+    padding: 10px;
+  }
+  
+  #timer {
+    font-size: 2em;
+    margin: 20px 0;
+  }
+  
+  .controls button {
+    margin: 5px;
+  }
+  
+  .sections button {
+    margin: 5px;
+  }
+  
+  #settings {
+    margin-top: 20px;
+    text-align: left;
+  }

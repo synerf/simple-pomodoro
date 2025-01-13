@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Simple Pomodoro",
+    "version": "1.0.0",
+    "description": "Get productive with Simple Pomodoro extension for Google Chrome",
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": ["storage"]
+}
